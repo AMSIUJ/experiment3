@@ -1,0 +1,1349 @@
+fileFormatVersion: 2
+guid: 73b3c98d2775f2f4c807f7c2d18d5bbe
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RETROfromer_Panda_Sprite_Sheet_0
+    21300002: RETROfromer_Panda_Sprite_Sheet_1
+    21300004: RETROfromer_Panda_Sprite_Sheet_2
+    21300006: RETROfromer_Panda_Sprite_Sheet_3
+    21300008: RETROfromer_Panda_Sprite_Sheet_4
+    21300010: RETROfromer_Panda_Sprite_Sheet_5
+    21300012: RETROfromer_Panda_Sprite_Sheet_6
+    21300014: RETROfromer_Panda_Sprite_Sheet_7
+    21300016: RETROfromer_Panda_Sprite_Sheet_8
+    21300018: RETROfromer_Panda_Sprite_Sheet_9
+    21300020: RETROfromer_Panda_Sprite_Sheet_10
+    21300022: RETROfromer_Panda_Sprite_Sheet_11
+    21300024: RETROfromer_Panda_Sprite_Sheet_12
+    21300026: RETROfromer_Panda_Sprite_Sheet_13
+    21300028: RETROfromer_Panda_Sprite_Sheet_14
+    21300030: RETROfromer_Panda_Sprite_Sheet_15
+    21300032: RETROfromer_Panda_Sprite_Sheet_16
+    21300034: RETROfromer_Panda_Sprite_Sheet_17
+    21300036: RETROfromer_Panda_Sprite_Sheet_18
+    21300038: RETROfromer_Panda_Sprite_Sheet_19
+    21300040: RETROfromer_Panda_Sprite_Sheet_20
+    21300042: RETROfromer_Panda_Sprite_Sheet_21
+    21300044: RETROfromer_Panda_Sprite_Sheet_22
+    21300046: RETROfromer_Panda_Sprite_Sheet_23
+    21300048: RETROfromer_Panda_Sprite_Sheet_24
+    21300050: RETROfromer_Panda_Sprite_Sheet_25
+    21300052: RETROfromer_Panda_Sprite_Sheet_26
+    21300054: RETROfromer_Panda_Sprite_Sheet_27
+    21300056: RETROfromer_Panda_Sprite_Sheet_28
+    21300058: RETROfromer_Panda_Sprite_Sheet_29
+    21300060: RETROfromer_Panda_Sprite_Sheet_30
+    21300062: RETROfromer_Panda_Sprite_Sheet_31
+    21300064: RETROfromer_Panda_Sprite_Sheet_32
+    21300066: RETROfromer_Panda_Sprite_Sheet_33
+    21300068: RETROfromer_Panda_Sprite_Sheet_34
+    21300070: RETROfromer_Panda_Sprite_Sheet_35
+    21300072: RETROfromer_Panda_Sprite_Sheet_36
+    21300074: RETROfromer_Panda_Sprite_Sheet_37
+    21300076: RETROfromer_Panda_Sprite_Sheet_38
+    21300078: RETROfromer_Panda_Sprite_Sheet_39
+    21300080: RETROfromer_Panda_Sprite_Sheet_40
+    21300082: RETROfromer_Panda_Sprite_Sheet_41
+    21300084: RETROfromer_Panda_Sprite_Sheet_42
+    21300086: RETROfromer_Panda_Sprite_Sheet_43
+    21300088: RETROfromer_Panda_Sprite_Sheet_44
+    21300090: RETROfromer_Panda_Sprite_Sheet_45
+    21300092: RETROfromer_Panda_Sprite_Sheet_46
+    21300094: RETROfromer_Panda_Sprite_Sheet_47
+    21300096: RETROfromer_Panda_Sprite_Sheet_48
+    21300098: RETROfromer_Panda_Sprite_Sheet_49
+    21300100: RETROfromer_Panda_Sprite_Sheet_50
+    21300102: RETROfromer_Panda_Sprite_Sheet_51
+    21300104: RETROfromer_Panda_Sprite_Sheet_52
+    21300106: RETROfromer_Panda_Sprite_Sheet_53
+    21300108: RETROfromer_Panda_Sprite_Sheet_54
+    21300110: RETROfromer_Panda_Sprite_Sheet_55
+    21300112: RETROfromer_Panda_Sprite_Sheet_56
+    21300114: RETROfromer_Panda_Sprite_Sheet_57
+    21300116: RETROfromer_Panda_Sprite_Sheet_58
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8887.529
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d5a0b1096dcc34e914b4dee6e365d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 8887.529
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06a9efffe4683a449fb10fdea72ecd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 8887.529
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d0e655d5f2f874aa529720e0a531ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 8887.529
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6be2327f103f04fac2a9d6f342c6f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 8887.529
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a434d396554db9448b6fa0fc2725cb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 8887.529
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0525a6756b96d41831fc05b7454c7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8332.529
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4356ea3e854844e8d524af1b4a4ab2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 8332.529
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7821f8304f1ed41a824f80e2d64a60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 8332.529
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8137e78e181afac42a11ba4a3a75b5f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 8332.529
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77798ef673661804a9be27b8562ac3db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 8332.529
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74e519cbe48fd64eaa51714daf2a1cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7222.5293
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efec0de18a08b440b1be4afb5512fa8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 7222.5293
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997af6613615ac3409ade9efa1fb1c79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 7222.5293
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdc09e1339a0c94eae780d87e3e83d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 7222.5293
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca1dfc2f6d30494ab9de24b5ededf4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 7222.5293
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbcd07ee88d7954b82692c9468c2af9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 7222.5293
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67049e574d605a4dac5fb55fa917092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6667.5293
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3099bd117b0be864dbbd7bd2dd6333d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 6667.5293
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14dcb4b51bbfe444c9cd84b91ecb07fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 6667.5293
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada549f580c31684fb7ea32ef54023a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 6667.5293
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b004b70cb10d2f45a0ee319c737f1f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5557.5293
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e45424a9afb2ed49b5e162e3a99c7e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 5557.5293
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb8c5c18b8f0f64aaea42ffd627b50d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 5557.5293
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e27f6b4e1085604f9b59136e64dd776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 5557.5293
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a708f7735d7f3d940a66704a74a565b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 5557.5293
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95dbb531b4b1e5f408a78e001cf05f4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4447.5293
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c40a8c4ea19bf14db7a6e8cd80121b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 4447.5293
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819cd8e688b281e4f8cb53d6c4bf367b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 4447.5293
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33566f9f4787ca4fb8f78f4ffa55d1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 4447.5293
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9dfbe38c9e1be4eb7c4d40caaae931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 4447.5293
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33920f04730526c43b89edba0b3900ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 4447.5293
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d12f0593436e649865cea52cc7a235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3892.5293
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aea7cda1fc006f4a89428f9d09947f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 3892.5293
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7b06e728cd974428eda050deae1559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 3892.5293
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d8d94c0ea46e340845fefa068ee953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 3892.5293
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30973267a4a10514589b08bbe73f5b73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 3892.5293
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251081799e3b3c346a46c4e00e85539b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 3892.5293
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eef76219e2f95c40a1bab81a7c1f7f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3337.5293
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b906cc1150894e5479e0d68b6347dfa4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 3337.5293
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49ada16e895b8a4dad9fa2d2741891a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 3337.5293
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e2388c73a28214ab275db733a6ab6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 3337.5293
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d15b50a984639f41ba60f6ed8ad2381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 3337.5293
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138d2e735b6cbe049bef9cc554c2889f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2782.5293
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca3e4b3c81f442408a4490ddace179a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2227.5293
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add0da981baf2c046831092a11ee8d76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 2227.5293
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec05b086a59aef43bf2c7fcf96ec3d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 2227.5293
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7a99c4470973f4caed3ff852aeaf7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 2227.5293
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9595a74bacf810f4089bbb2b690d47c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 2227.5293
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a4da0a107920d4e87c9107f7cc362c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 2227.5293
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68c218dd578d56489b2c5dbd910d1d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1672.5294
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2423a7e9612b944a8b516c614399144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1672.5294
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b511e2d234d0ed45a00fe741287e02a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1672.5294
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14828a668c485a04e900c96eda1b6390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 562.5294
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77eb5123da23ecf42a5546073c69012a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 562.5294
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac7a9bcfd4dc864f88dd54fd46669d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 562.5294
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20889d0acca65fe42bb6788ef3d0a44d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 562.5294
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22af438fc96b4940b158593a3a986cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 562.5294
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf278250f0d06b949b3c11e74d4412b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Panda_Sprite_Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 562.5294
+        width: 680.1667
+        height: 555.4706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ad1504e247bec4d92509d5be5f59f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 30c96a275a33f8847b319b1789cb3e15
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
