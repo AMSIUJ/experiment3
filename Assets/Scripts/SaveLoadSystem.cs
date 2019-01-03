@@ -2,7 +2,6 @@
 
 public static class SaveLoadSystem {
 
-
 	public static void Save(string slotKey, SavingData data)
 	{
 		PlayerPrefs.SetInt(slotKey + "_level", data.level);
@@ -17,14 +16,16 @@ public static class SaveLoadSystem {
 	
 	public static SavingData Load(string slotKey)
 	{
-		SavingData data = new SavingData();
-		
-		data.level = PlayerPrefs.GetInt(slotKey + "_level");
-		data.positionX = PlayerPrefs.GetFloat(slotKey + "_positionX");
-		data.positionY = PlayerPrefs.GetFloat(slotKey + "_positionY");
-		data.score = PlayerPrefs.GetInt(slotKey + "_score");
-		data.timeElapsed = PlayerPrefs.GetFloat(slotKey + "_time");
-		data.playerName = PlayerPrefs.GetString(slotKey + "_playerName");
+		var data = new SavingData
+		{
+			level = PlayerPrefs.GetInt(slotKey + "_level"),
+			positionX = PlayerPrefs.GetFloat(slotKey + "_positionX"),
+			positionY = PlayerPrefs.GetFloat(slotKey + "_positionY"),
+			score = PlayerPrefs.GetInt(slotKey + "_score"),
+			timeElapsed = PlayerPrefs.GetFloat(slotKey + "_time"),
+			playerName = PlayerPrefs.GetString(slotKey + "_playerName")
+		};
+
 
 		return data;
 	}
@@ -48,9 +49,7 @@ public static class SaveLoadSystem {
 	{
 		return PlayerPrefs.HasKey(slotKey + "_level");
 	}
-	
 }
-
 
 public class SavingData
 {
