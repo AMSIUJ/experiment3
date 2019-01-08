@@ -1,0 +1,1559 @@
+fileFormatVersion: 2
+guid: 952c68ded3c100e47b5dad923bb0ab89
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RETROfromer_Sprite_Sheet_0
+    21300002: RETROfromer_Sprite_Sheet_1
+    21300004: RETROfromer_Sprite_Sheet_2
+    21300006: RETROfromer_Sprite_Sheet_3
+    21300008: RETROfromer_Sprite_Sheet_4
+    21300010: RETROfromer_Sprite_Sheet_5
+    21300012: RETROfromer_Sprite_Sheet_6
+    21300014: RETROfromer_Sprite_Sheet_7
+    21300016: RETROfromer_Sprite_Sheet_8
+    21300018: RETROfromer_Sprite_Sheet_9
+    21300020: RETROfromer_Sprite_Sheet_10
+    21300022: RETROfromer_Sprite_Sheet_11
+    21300024: RETROfromer_Sprite_Sheet_12
+    21300026: RETROfromer_Sprite_Sheet_13
+    21300028: RETROfromer_Sprite_Sheet_14
+    21300030: RETROfromer_Sprite_Sheet_15
+    21300032: RETROfromer_Sprite_Sheet_16
+    21300034: RETROfromer_Sprite_Sheet_17
+    21300036: RETROfromer_Sprite_Sheet_18
+    21300038: RETROfromer_Sprite_Sheet_19
+    21300040: RETROfromer_Sprite_Sheet_20
+    21300042: RETROfromer_Sprite_Sheet_21
+    21300044: RETROfromer_Sprite_Sheet_22
+    21300046: RETROfromer_Sprite_Sheet_23
+    21300048: RETROfromer_Sprite_Sheet_24
+    21300050: RETROfromer_Sprite_Sheet_25
+    21300052: RETROfromer_Sprite_Sheet_26
+    21300054: RETROfromer_Sprite_Sheet_27
+    21300056: RETROfromer_Sprite_Sheet_28
+    21300058: RETROfromer_Sprite_Sheet_29
+    21300060: RETROfromer_Sprite_Sheet_30
+    21300062: RETROfromer_Sprite_Sheet_31
+    21300064: RETROfromer_Sprite_Sheet_32
+    21300066: RETROfromer_Sprite_Sheet_33
+    21300068: RETROfromer_Sprite_Sheet_34
+    21300070: RETROfromer_Sprite_Sheet_35
+    21300072: RETROfromer_Sprite_Sheet_36
+    21300074: RETROfromer_Sprite_Sheet_37
+    21300076: RETROfromer_Sprite_Sheet_38
+    21300078: RETROfromer_Sprite_Sheet_39
+    21300080: RETROfromer_Sprite_Sheet_40
+    21300082: RETROfromer_Sprite_Sheet_41
+    21300084: RETROfromer_Sprite_Sheet_42
+    21300086: RETROfromer_Sprite_Sheet_43
+    21300088: RETROfromer_Sprite_Sheet_44
+    21300090: RETROfromer_Sprite_Sheet_45
+    21300092: RETROfromer_Sprite_Sheet_46
+    21300094: RETROfromer_Sprite_Sheet_47
+    21300096: RETROfromer_Sprite_Sheet_48
+    21300098: RETROfromer_Sprite_Sheet_49
+    21300100: RETROfromer_Sprite_Sheet_50
+    21300102: RETROfromer_Sprite_Sheet_51
+    21300104: RETROfromer_Sprite_Sheet_52
+    21300106: RETROfromer_Sprite_Sheet_53
+    21300108: RETROfromer_Sprite_Sheet_54
+    21300110: RETROfromer_Sprite_Sheet_55
+    21300112: RETROfromer_Sprite_Sheet_56
+    21300114: RETROfromer_Sprite_Sheet_57
+    21300116: RETROfromer_Sprite_Sheet_58
+    21300118: RETROfromer_Sprite_Sheet_59
+    21300120: RETROfromer_Sprite_Sheet_60
+    21300122: RETROfromer_Sprite_Sheet_61
+    21300124: RETROfromer_Sprite_Sheet_62
+    21300126: RETROfromer_Sprite_Sheet_63
+    21300128: RETROfromer_Sprite_Sheet_64
+    21300130: RETROfromer_Sprite_Sheet_65
+    21300132: RETROfromer_Sprite_Sheet_66
+    21300134: RETROfromer_Sprite_Sheet_67
+    21300136: RETROfromer_Sprite_Sheet_68
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 833
+        width: 284
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176c0fd291ce65540831b47deb4288a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 764
+        width: 249
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf2314624dcf6e46be893f2d5441825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 817
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590b5addd66c6f54eb607717606e54a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 817
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de37113138a96ef4a8650ebc1a8a3282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 817
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7576a05d58cb04aa665658080fda4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 817
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e7ea6f89b88d74583e818b7b026f81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 817
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5a61a2003d05a47a6abb528cf0ff32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 817
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515daa09b9128d94e823187ae7f72ebb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 817
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de76b85f4d791174cb528f2c0046957e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 817
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c27edef8331444897c2b6a63c9b4a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 817
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30710743ba3f0d4a86c4effeba1cf4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 817
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac89ce2dcbfe3c438a42017bd4b23dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 817
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d540666458132dc4cb860b35fdc322a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 817
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bc9fa82383f814884f893046a7b816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 817
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140ba53513b692e46ae49a183ebdd65b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 817
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1255eb99f3944e4b9126721020805ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 817
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd72ba1b454726468bc6e8441c33f74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 806
+        width: 58
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b726554547942174a893601e2c1fb0b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 674
+        width: 103
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f229b5e329992b54c860d03a91434b85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 665
+        width: 103
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885ded465098c5945b49e0e0fcbb75f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 577
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23831136155f204ea7405a4a6cd5a9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 573
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff47f7283828bd340a16d8f9a4ff9d84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 574
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfdc1ca8a7f4a0418d0e13bb339715e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 576
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964eb9fcf4474c348aa8cc8c76753e96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 574
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c6615869f7cff4b9c4bef833ad603b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 583
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975bbe3aff1d49e43aacc807751c95cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 504
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd802aa1e572b19489479ea450baa34d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 504
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be80a564555da514dad4575b4847c4a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 509
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231748c263a43684e8aa3b2458d4683f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 506
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fce9df92b659443b791f671b927cbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 508
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf595a5adff20b4c8808108c928275f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 520
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb413545a8118643859e6ad61794b9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 516
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789846d742316ea4397d45efe19d6307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 516
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a07320221d5fb44a87bf0b06c18f881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 440
+        width: 57
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dc2853f559a89498c3f52cb55122e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 441
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6ab5a4c07cc2744a60e0ccb44745f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 349
+        width: 139
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4739e5cc87c1b9d4da258151ba042054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 357
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7138e5c0a71659349b31a5840f3c6a13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 389
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5728f188cefa647ab18dce04d608d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 380
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e1fdf15da35984390061fde5c58c99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 389
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3659b7b2018f819488739ad39a7afc5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 371
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe69933d6cef3b4387c089cead35a73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 371
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e6d57a54854234dbf58f9c7d23b279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 357
+        width: 70
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c26e7087e7e4a843bfb242dcdddaec2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 357
+        width: 70
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e4afe8ba8bc4b4d814d8e45294062d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 288
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de7f4b8a45d8324c8e82a53bed793db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 288
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f708f3e722c88b4438cb89acc6ebd1bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 288
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33dc6259fc3369947916133ea686c4d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 288
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3e7dedb64b6514a94ebada19f4806c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 288
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43b23ff59afbe546a1470d49687e4b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 288
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade77ddfe0dbefb43a2c611e7c34b5ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 252
+        width: 72
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5374ecd7ab8b54e9d9af689eeb11e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 162
+        width: 44
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c51059a03fd7c4d830a1da76ebd0e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 162
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa69f0c50317e54891c7955a6fabf0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 162
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a380c12f149594ab966c9847bb2fcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 162
+        width: 47
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7b50285cb505c47a39aa320442de86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 162
+        width: 47
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907197631cad546478c9240ef671dc41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 162
+        width: 48
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ab1613b8008444d837672e85d4115e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 204
+        width: 72
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d49158a7fedcb4c9ea8bdb7447d2ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 156
+        width: 72
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a60551ba94790742a5aabbbee4e9894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 12
+        width: 44
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2ac3dabd15e4843894a29a7626414c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 12
+        width: 44
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa49f1b920684fb47874b02d76fab948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 12
+        width: 44
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958173d494d63c845b805bfec9a98371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 7
+        width: 48
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d76df36c7f97774d81d668876f08cc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 7
+        width: 47
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9641b0bf67e2649a1d4eee69e168b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 7
+        width: 48
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a407144c0d14dd341b6ac73184414dd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 107
+        width: 72
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88ca2a88e33ae0469afecfc723a7fcb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 60
+        width: 72
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102a7831d07b6d84fa9bf32c2522a632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RETROfromer_Sprite_Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 11
+        width: 72
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478d4589ff040ac4387683f2a18a39ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d652f03c880a2de45be9eed33b448e9b
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
