@@ -569,6 +569,11 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 8
       objectReference: {fileID: 0}
+    - target: {fileID: 4648285673104592403, guid: f729a9b588c93aa4fa1cdde7a239357e,
+        type: 3}
+      propertyPath: m_Name
+      value: Terrain
+      objectReference: {fileID: 0}
     - target: {fileID: 3514954479143958980, guid: f729a9b588c93aa4fa1cdde7a239357e,
         type: 3}
       propertyPath: m_Layer
