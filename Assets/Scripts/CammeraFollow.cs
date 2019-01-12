@@ -21,7 +21,6 @@ public class CammeraFollow : MonoBehaviour
 
 	void FixedUpdate ()
 	{
-		Debug.Log("FixedUpdate time :" + Time.deltaTime);
 		float posX = Mathf.SmoothDamp(transform.position.x, player.transform.position.x, ref valocity.x, smoothTimeX);
 		float posY = Mathf.SmoothDamp(transform.position.y, player.transform.position.y, ref valocity.y, smoothTimeY);
 		
